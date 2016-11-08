@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Airport/ndb.ac 171.580022 -41.7424 1.41 180
+OBJECT_SHARED Models/Communications/vordme_1.xml 171.579622 -41.740628 2.5 180
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 171.592 -41.745 -0.18 329.33
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 171.593 -41.75 0.7 280.54
