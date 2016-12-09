@@ -9,3 +9,4 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 172.5630671 -43.5025038 21.43 10
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 172.5630843 -43.502647 20.66 10.3
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 172.5648696 -43.5022921 23.95 9.2
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 172.5648868 -43.5024042 24.19 10.52
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 172.6482613 -43.6218383 63.69 0

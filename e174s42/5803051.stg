@@ -58,4 +58,5 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 174.7817089 -41.2566083 100.46 8
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 174.785082 -41.2564922 96.83 341.22
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 174.786627 -41.257473 29.38 319.82
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 174.804164 -41.320982 29.81 344
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 174.8637679 -41.2597612 -2.4 0
 OBJECT_STATIC BNZ_Building.ac 174.776226 -41.286999 23.41 115
